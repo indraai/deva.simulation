@@ -7,12 +7,22 @@
 
 export default {
   /**************
-  method: simulation
+  method: simulate
   params: packet
-  describe: The global simulation feature that installs with every agent
+  describe: The global simulate feature that installs with every agent
   ***************/
-  async simulation(packet) {
-    const simulation = await this.methods.sign('simulation', 'default', packet);
-    return simulation;
+  simulate(packet) {
+    return new Promise((resolve, reject) => {
+      this.methods.sign(packet).then(simulate => {
+        console.log('sign here', simulate);
+        return resolve({
+          text: simulate.a.text,
+          html: simulate.a.html,
+          data: simulate.a.data
+        })
+      }).catch(err => {
+        return this.err(err, packet, reject);
+      });
+    });
   },
 };

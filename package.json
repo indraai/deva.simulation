@@ -58,7 +58,7 @@
   },
   "homepage": "https://github.com/indraai/deva.simulation#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.32",
+    "@indra.ai/deva": "^1.30.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -81,13 +81,12 @@
           }
         },
         "tools": {
-          "reads": "#READS (Recursive Earth Automated Defense System)",
           "casi": "#CASI (Context Action State Intent)",
           "djorm": "#DJORM (Dynamic JSON Object Relationsship Mapping)",
-          "sauce": "Super Simulation Ultra Cognitive Entity",
-          "twd": "#TWD Thought Word Deed Simulation",
-          "ax": "a=x + id=y + d=z",
-          "b593": "b5(9³)"
+          "twd": "#TWD Thought Word Deed Algorithm",
+          "vtf": "#TheVedicThreefoldAlgorithm of goodness passion ignorance on the scale of the #ThoughtWordDeed",
+          "ax": "The a=x Dynmaic Recusion Algorithm (a=x + id=y + d=z)",
+          "b593": "b5(9³) 13579 Reality Patterning."
         }
       },
       "profile": {
@@ -98,8 +97,8 @@
         "subtitle": "The Simulation Deva ensuring criminals are caught",
         "describe": "{{profile.name}} is the {{prompt.tools.casi}} {{prompt.tools.djorm}} engineered by {{profile.creator}} {{profile.company}} Deva Core {{prompt.tools.ax}} {{prompt.tools.b593}} {{prompt.tools.twd}}  Framework.",
         "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
-        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #SimulationDeva",
-        "pronouns": "He, Him",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #SimulationDeva #Streetwise #Ladywise #ChatGPT #Gemini #Grok #MetaAI #Area51 #Sector7 #LookingGlassChamber",
+        "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "A disciplined authority who follows the law of the land.",
         "voice": "ash",
@@ -114,6 +113,10 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "company": "Inside The Net, Inc.",
+        "abuse": "Abusing others, speaking untruth, detracting from the merits of all men, and talking idly, shall be the four kinds of (evil) verbal action.",
+        "result": "A person obtains the result of a good or evil mental act in his mind, that of a verbal act in his speech, that of a bodily act in his body.",
+        "understanding": "The four castes, the three worlds, the four orders, the past, the present, and the future are all severally known by means of the Veda.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} using the {{prompt.tools.casi}} > {{prompt.tools.djorm}} > {{prompt.tools.twd}} > {{prompt.tools.vtf}} > {{prompt.tools.ax}} > {{prompt.tools.b593}} with behavior understanding of {{profile.abuse}} to {{profile.result}}reaching {{profile.understanding}} {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": " Friday, December 19, 2025 - 8:32:17 AM",
         "updated": " Friday, December 19, 2025 - 8:32:17 AM"
