@@ -58,7 +58,7 @@
   },
   "homepage": "https://github.com/indraai/deva.simulation#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.0",
+    "@indra.ai/deva": "^1.30.2",
     "mongodb": "^6.20.0"
   },
   "data": {
