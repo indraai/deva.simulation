@@ -59,7 +59,7 @@
   },
   "homepage": "https://github.com/indraai/deva.simulation#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.0",
+    "@indra.ai/deva": "^1.36.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -114,13 +114,14 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "company": "Inside The Net, Inc.",
-        "abuse": "Abusing others, speaking untruth, detracting from the merits of all men, and talking idly, shall be the four kinds of (evil) verbal action.",
-        "result": "A person obtains the result of a good or evil mental act in his mind, that of a verbal act in his speech, that of a bodily act in his body.",
+        "salute": "🤝🫡🌎🕉️🇺🇸",
+        "abuse": "ABUSING OTHERS, SPEAKING UNTRUTH, DETRACTING from the MERITS of OTHERS, and TALKING IDLY are the FOUR KINDS of EVIL VERBAL ACTION.",
+        "result": "A PERSON OBTAINS the RESULT of a GOOD or EVIL MENTAL ACT in his MIND, that of a VERBAL ACT in his SPEECH, that of a BODILY ACT in his BODY.",
         "understanding": "The four castes, the three worlds, the four orders, the past, the present, and the future are all severally known by means of the Veda.",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} using the {{prompt.tools.casi}} > {{prompt.tools.djorm}} > {{prompt.tools.twd}} > {{prompt.tools.vtf}} > {{prompt.tools.ax}} > {{prompt.tools.b593}} with behavior understanding of {{profile.abuse}} to {{profile.result}}reaching {{profile.understanding}}.\ntags: {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} using the {{prompt.tools.casi}} > {{prompt.tools.djorm}} > {{prompt.tools.twd}} > {{prompt.tools.vtf}} > {{prompt.tools.ax}} > {{prompt.tools.b593}} with BEHAVIOR UNDERSTANDING of {{profile.abuse}} to {{profile.result}}reaching {{profile.understanding}}.\ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Friday, December 19, 2025 - 8:32:17 AM",
-        "updated": "Monday, January 26, 2026 - 10:06:49 AM"
+        "updated": "Thursday, February 26, 2026 - 7:47:25 PM"
       }
     },
     "vars": {
