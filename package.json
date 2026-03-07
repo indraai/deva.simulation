@@ -117,7 +117,7 @@
         "salute": "🤝🫡🌎🕉️🇺🇸",
         "abuse": "ABUSING OTHERS, SPEAKING UNTRUTH, DETRACTING from the MERITS of OTHERS, and TALKING IDLY are the FOUR KINDS of EVIL VERBAL ACTION.",
         "result": "A PERSON OBTAINS the RESULT of a GOOD or EVIL MENTAL ACT in his MIND, that of a VERBAL ACT in his SPEECH, that of a BODILY ACT in his BODY.",
-        "understanding": "The FIVE ELEMENTS, The FOUR CASTES, the THREE WORLDS, the FOUR ORDERS, the PAST, the PRESENT, and the FUTURE are all severally known by means of the {{[profile.name}}.",
+        "understanding": "The FIVE ELEMENTS, The FOUR CASTES, the THREE WORLDS, the FOUR ORDERS, the PAST, the PRESENT, and the FUTURE are all severally known by means of the {{profile.name}}.",
         "warning": "{{prompt.emoji}} {{profile.name}} using the {{prompt.tools.casi}} > {{prompt.tools.djorm}} > {{prompt.tools.twd}} > {{prompt.tools.vtf}} > {{prompt.tools.ax}} > {{prompt.tools.b593}} with UNDERSTANDING {{profile.abuse}} to {{profile.result}} reaching {{profile.understanding}}.",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Friday, December 19, 2025 - 8:32:17 AM",
