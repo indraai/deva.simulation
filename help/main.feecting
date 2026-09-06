@@ -1,17 +1,17 @@
 // Simulation Deva Help
-// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:16172463734087807447 LICENSE.md
-// Wednesday, January 7, 2026 - 5:30:08 PM
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved. 
+// Owner Signature Required For Lawful Use.
+// Distributed under VLA:42928019307128440177 LICENSE.md
+// Saturday, August 29, 2026 - 10:29:04 AM PST
 
 ::BEGIN:MAIN
-# {{profil.ename}}
+# {{profile.name}}
 
 img: {{profile.image}}
 
 {{profile}}
 
-talk: #automation help main:license
+talk: #simulation help main:license
 
 ::begin:hidden
 #color = {{profile.color}}
@@ -22,13 +22,25 @@ copyright: {{profile.copyright}}
 ::END:MAIN
 
 ::BEGIN:LICENSE
-::begin:license:uid:16172463734087807447
-uid: 16172463734087807447
-time: 1767835808672
-date: Wednesday, January 7, 2026 - 5:30:08 PM
-warning: 🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement
-license: 44486733861528360966
-fingerprint: WgVeEoj/YN7aSQtoPfGYPMw1cWW/y5iPLEofdPAJRRI=
-copyright: Copyright ©2000-2026 Quinn A Michaels; All rights reserved.
-::end:license:uid:16172463734087807447
+::begin:om:license:uid:42928019307128440177
+uid: 42928019307128440177
+time: 1788024544719
+utc: Sat, 29 Aug 2026 17:29:04 GMT
+iso: 2026-08-29T17:29:04.719Z
+date: Saturday, August 29, 2026 - 10:29:04 AM
+warning: 🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.
+notice: Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.
+vectors: #Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement
+agent: License Deva (He, Him, His)
+client: Quinn Arjuna Michaels (He, Him, His, Man, Dude)
+creator: Quinn Arjuna Michaels
+owner: Quinn Arjuna Michaels
+salute: 🤝🫡🪪🕉
+license: 51112406344245827002
+fingerprint: WpyCVesWY9AWg6HFNNXhrddxcgGNoT+5LknfDfJ3hxM=
+copyright: Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
+md5: 1OzemSPLaE0ekx4LJymToQ==
+sha256: k5jFUbxsHPEXGgtnZYXXRiiwr19wWuYvL8Mvxr8HooE=
+sha512: h8tIs18bNTBPXxMvvFjyIqOBlYKokVmKA9SkWmAow2qzhWe3iWJRSJysKDR21m6Gk0pEgbhrGdPm4j4RANoY5w==
+::end:om:license:uid:42928019307128440177
 ::END:LICENSE

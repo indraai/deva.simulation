@@ -1,15 +1,15 @@
 // Simulation Deva Corpus
-// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:16172463734087807447 LICENSE.md
-// Wednesday, January 7, 2026 - 5:30:08 PM
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved. 
+// Owner Signature Required For Lawful Use.
+// Distributed under VLA:42928019307128440177 LICENSE.md
+// Saturday, August 29, 2026 - 10:29:04 AM PST
 
 ::BEGIN:MAIN
 # {{profile.name}}
 
 {{profile}}
 
-talk: #authority help main:license
+talk: #simulation help main:license
 
 copyright: {{profile.copyright}}
 ::END:MAIN
